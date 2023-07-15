@@ -1,0 +1,79 @@
+Entries:
+Name: Anfang Tränke, Time: 6.006
+Name: TP1A, Time: 7.14047
+Name: TP1E, Time: 8.2082
+Name: 30s, Time: 65.9993
+Name: 1m, Time: 125.993
+Name: TP2A, Time: 129.696
+Name: TP2E, Time: 131.031
+Name: TP3A, Time: 160.827
+Name: TP3E, Time: 162.396
+Name: 1,30m, Time: 185.986
+Name: 2m, Time: 246.012
+Name: 2,30m, Time: 306.006
+Name: TP4A, Time: 364.965
+Name: 3m, Time: 365.999
+Name: TP4E, Time: 366.7
+Name: 3,30m, Time: 425.992
+Name: TP5A, Time: 432.465
+Name: TP5E, Time: 434.1
+Name: 4m, Time: 485.986
+Name: 4,30m, Time: 546.012
+Name: TP6A, Time: 547.213
+Name: TP6E, Time: 549.416
+Name: 5m, Time: 606.005
+Name: TP7A, Time: 623.156
+Name: TP7E, Time: 625.058
+Name: 5,30m, Time: 665.999
+Name: TP8A, Time: 692.325
+Name: TP8E, Time: 693.76
+Name: 6m, Time: 725.992
+Name: TP9A, Time: 760.827
+Name: TP9E, Time: 762.562
+Name: 6,30m, Time: 785.985
+Name: TP10A, Time: 808.174
+Name: TP10E, Time: 809.776
+Name: 7m, Time: 846.012
+Name: TP11A, Time: 881.614
+Name: TP11E, Time: 883.85
+Name: 7,30m, Time: 906.005
+Name: TP12A, Time: 909.575
+Name: TP12E, Time: 911.31
+Name: Ende Video, Time: 919.952
+
+Pauses:
+Name: TP1A, Section: 1, Duration: 1.06773 seconds
+Name: TP2A, Section: 2, Duration: 1.33467 seconds
+Name: TP3A, Section: 2, Duration: 1.56823 seconds
+Name: TP4A, Section: 3, Duration: 1.03437 seconds
+Name: 3m, Section: 4, Duration: 0.7007 seconds
+Name: TP5A, Section: 4, Duration: 1.63497 seconds
+Name: TP6A, Section: 5, Duration: 2.2022 seconds
+Name: TP7A, Section: 6, Duration: 1.9019 seconds
+Name: TP8A, Section: 6, Duration: 1.43477 seconds
+Name: TP9A, Section: 7, Duration: 1.73507 seconds
+Name: TP10A, Section: 7, Duration: 1.6016 seconds
+Name: TP11A, Section: 8, Duration: 2.23557 seconds
+Name: TP12A, Section: 8, Duration: 1.73507 seconds
+
+Section Pause counts:
+Section: 1, Pause Count: 1 pauses.
+Section: 2, Pause Count: 2 pauses.
+Section: 3, Pause Count: 1 pauses.
+Section: 4, Pause Count: 2 pauses.
+Section: 5, Pause Count: 1 pauses.
+Section: 6, Pause Count: 2 pauses.
+Section: 7, Pause Count: 2 pauses.
+Section: 8, Pause Count: 2 pauses.
+
+Time Multiplier: 2
+
+Section Durations:
+Section: 1, Duration: 1.06773, Multiplied Duration: 0.533867 seconds
+Section: 2, Duration: 2.9029, Multiplied Duration: 1.45145 seconds
+Section: 3, Duration: 1.03437, Multiplied Duration: 0.517183 seconds
+Section: 4, Duration: 2.33567, Multiplied Duration: 1.16783 seconds
+Section: 5, Duration: 2.2022, Multiplied Duration: 1.1011 seconds
+Section: 6, Duration: 3.33667, Multiplied Duration: 1.66833 seconds
+Section: 7, Duration: 3.33667, Multiplied Duration: 1.66833 seconds
+Section: 8, Duration: 3.97063, Multiplied Duration: 1.98532 seconds

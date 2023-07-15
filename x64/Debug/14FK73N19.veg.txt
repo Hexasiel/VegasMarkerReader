@@ -1,0 +1,28 @@
+Entries:
+Name: Anfang Tränke, Time: 12.012
+Name: TP1A, Time: 14.381
+Name: TP1E, Time: 15.4488
+Name: 30s, Time: 72.0053
+Name: 1m, Time: 131.999
+Name: 1,30m, Time: 191.992
+Name: 2m, Time: 251.985
+Name: 2,30m, Time: 312.012
+Name: 3m, Time: 372.005
+Name: 3,30m, Time: 431.998
+Name: 4m, Time: 491.991
+Name: 4,30m, Time: 551.985
+Name: 5m, Time: 612.011
+Name: 5,30m, Time: 672.005
+Name: 6m, Time: 731.998
+Name: Ende Video, Time: 784.25
+
+Pauses:
+Name: TP1A, Section: 1, Duration: 1.06773 seconds
+
+Section Pause counts:
+Section: 1, Pause Count: 1 pauses.
+
+Time Multiplier: 2
+
+Section Durations:
+Section: 1, Duration: 1.06773, Multiplied Duration: 0.533867 seconds

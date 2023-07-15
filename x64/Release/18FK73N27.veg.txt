@@ -1,0 +1,21 @@
+Entries:
+Name: Anfang Tränke, Time: 7.007
+Name: 30s, Time: 67.0003
+Name: 1m, Time: 126.994
+Name: 1,30m, Time: 186.987
+Name: 2m, Time: 247.013
+Name: 2,30m, Time: 307.007
+Name: 3m, Time: 367
+Name: 3,30m, Time: 426.993
+Name: 4m, Time: 486.986
+Name: 4,30m, Time: 547.013
+Name: 5m, Time: 607.006
+Name: 5,30m, Time: 667
+Name: 6m, Time: 726.993
+Name: 6,30m, Time: 786.986
+Name: Ende Video, Time: 822.789
+
+Pauses:
+
+Time Multiplier: 2
+Section Durations:

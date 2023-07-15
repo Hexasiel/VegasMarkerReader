@@ -1,0 +1,117 @@
+Entries:
+Name: Anfang Tränke, Time: 35.0016
+Name: Anfang Trinken, Time: 37.0036
+Name: TP1A, Time: 44.9783
+Name: TP1E, Time: 47.681
+Name: TP2A, Time: 50.8842
+Name: TP2E, Time: 59.5929
+Name: TP3A, Time: 64.6646
+Name: TP3E, Time: 70.704
+Name: TP4A, Time: 81.1477
+Name: TP4E, Time: 82.9829
+Name: 30s, Time: 94.9949
+Name: TP5A, Time: 109.776
+Name: TP5E, Time: 112.179
+Name: 1m, Time: 154.988
+Name: TP6A, Time: 157.457
+Name: TP6E, Time: 160.327
+Name: TP7A, Time: 167.467
+Name: TP7E, Time: 170.437
+Name: 1,30m, Time: 215.015
+Name: TP8A, Time: 229.196
+Name: TP8E, Time: 231.665
+Name: TP9A, Time: 232.766
+Name: TP9E, Time: 234.334
+Name: TP10A, Time: 236.103
+Name: TP10E, Time: 241.742
+Name: TP11A, Time: 265.932
+Name: TP11E, Time: 267.968
+Name: 2m, Time: 275.008
+Name: TP12A, Time: 321.454
+Name: TP12E, Time: 323.523
+Name: 2,30m, Time: 335.001
+Name: 3m, Time: 394.995
+Name: 3,30m, Time: 454.988
+Name: 4m, Time: 515.014
+Name: TP13A, Time: 538.905
+Name: TP13E, Time: 547.28
+Name: 4,30m, Time: 575.008
+Name: TP14A, Time: 584.05
+Name: TP14E, Time: 587.387
+Name: TP15A, Time: 588.555
+Name: TP15E, Time: 590.356
+Name: 5m, Time: 635.001
+Name: TP16A, Time: 645.845
+Name: TP16E, Time: 648.348
+Name: 5,30m, Time: 694.994
+Name: TP17A, Time: 702.569
+Name: TP17E, Time: 706.272
+Name: 6m, Time: 754.988
+Name: TP18A, Time: 757.423
+Name: TP18E, Time: 760.793
+Name: TP19A, Time: 761.961
+Name: TP19E, Time: 763.763
+Name: 6,30m, Time: 815.014
+Name: 7m, Time: 875.007
+Name: TP20A, Time: 929.228
+Name: 7,30m, Time: 935.001
+Name: TP20E, Time: 939.205
+Name: 8m, Time: 994.994
+Name: TP21A, Time: 1022.15
+Name: TP21E, Time: 1025.72
+Name: 8,30m, Time: 1054.99
+Name: TP22A, Time: 1082.65
+Name: TP22E, Time: 1094.03
+Name: 9m, Time: 1115.01
+Name: TP23A, Time: 1127.66
+Name: TP23E, Time: 1131.53
+Name: Ende Video, Time: 1135.6
+
+Pauses:
+Name: TP1A, Section: 1, Duration: 2.7027 seconds
+Name: TP2A, Section: 1, Duration: 8.7087 seconds
+Name: TP3A, Section: 1, Duration: 6.03937 seconds
+Name: TP4A, Section: 1, Duration: 1.83517 seconds
+Name: TP5A, Section: 1, Duration: 2.4024 seconds
+Name: TP6A, Section: 2, Duration: 2.86953 seconds
+Name: TP7A, Section: 2, Duration: 2.96963 seconds
+Name: TP8A, Section: 2, Duration: 2.46913 seconds
+Name: TP9A, Section: 2, Duration: 1.56823 seconds
+Name: TP10A, Section: 2, Duration: 5.63897 seconds
+Name: TP11A, Section: 2, Duration: 2.03537 seconds
+Name: TP12A, Section: 3, Duration: 2.06873 seconds
+Name: TP13A, Section: 5, Duration: 8.37503 seconds
+Name: TP14A, Section: 5, Duration: 3.33667 seconds
+Name: TP15A, Section: 5, Duration: 1.8018 seconds
+Name: TP16A, Section: 6, Duration: 2.5025 seconds
+Name: TP17A, Section: 6, Duration: 3.7037 seconds
+Name: TP18A, Section: 7, Duration: 3.37003 seconds
+Name: TP19A, Section: 7, Duration: 1.8018 seconds
+Name: TP20A, Section: 8, Duration: 9.97663 seconds
+Name: TP21A, Section: 9, Duration: 3.57023 seconds
+Name: TP22A, Section: 9, Duration: 11.378 seconds
+Name: TP23A, Section: 10, Duration: 3.87053 seconds
+
+Section Pause counts:
+Section: 9, Pause Count: 2 pauses.
+Section: 1, Pause Count: 5 pauses.
+Section: 2, Pause Count: 6 pauses.
+Section: 3, Pause Count: 1 pauses.
+Section: 5, Pause Count: 3 pauses.
+Section: 6, Pause Count: 2 pauses.
+Section: 7, Pause Count: 2 pauses.
+Section: 8, Pause Count: 1 pauses.
+Section: 10, Pause Count: 1 pauses.
+
+Time Multiplier: 2
+
+Section Durations:
+Section: 9, Duration: 14.9483, Multiplied Duration: 7.47413 seconds
+Section: 1, Duration: 21.6883, Multiplied Duration: 10.8442 seconds
+Section: 2, Duration: 17.5509, Multiplied Duration: 8.77543 seconds
+Section: 3, Duration: 2.06873, Multiplied Duration: 1.03437 seconds
+Section: 5, Duration: 13.5135, Multiplied Duration: 6.75675 seconds
+Section: 6, Duration: 6.2062, Multiplied Duration: 3.1031 seconds
+Section: 7, Duration: 5.17183, Multiplied Duration: 2.58592 seconds
+Section: 8, Duration: 9.97663, Multiplied Duration: 4.98832 seconds
+Section: 10, Duration: 3.87053, Multiplied Duration: 1.93527 seconds
